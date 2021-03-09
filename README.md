@@ -10,10 +10,8 @@ Pentogram is the world’s largest independently owned design studio, It is owne
 - Fonts ranging from line number 1 to 341 can be classified as Latin script fonts.
 - Fonts ranging from line number 343 to 364 can be classified as Devanagari script fonts.
 - Font in the line 366 can be classified as Arabic script font.
-- There are few colors which are used frequently in the page. They are as follows: whitesmoke, lightblue, lightgreen, orange, firebrick.
 
 Create an index of fonts grouped by script as shared in the image below.
 
-![](./Font-List-HTML-Desktop.png)
-
+![](./Font-List-HTML.png)
 
