@@ -1,4 +1,4 @@
-# Font Index Challenge
+# Pentogram-Font-Catalog-Challenge
 
 ## Context
 
