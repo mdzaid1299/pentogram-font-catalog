@@ -2,7 +2,7 @@
 
 ## Context
 
-Pentogram is the world’s largest independently owned design studio, It is owned and run equally by 25 partners—all of whom are leaders in the design industry. They have headquarters in London and are spread across Austin, Berlin, New York, and San Francisco. Graphic designers spread across different locations are usually posed with the challenge of finding fonts created by their peers. Help the team at Pentogram build a catalog of fonts such that the fonts can be easily located and viewed by the graphic designers.
+Pentogram is the world’s largest independently owned design studio. It is owned and run equally by 25 partners—all of whom are leaders in the design industry. The design studio is headquartered in London and has offices spread across Austin, Berlin, New York, and San Francisco. Graphic designers spread across different locations are usually posed with the challenge of finding fonts created by their peers. Help the team at Pentogram build a catalog of fonts such that the fonts can be easily located and viewed by the graphic designers.
 
 ## Challenge
 
