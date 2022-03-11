@@ -1,4 +1,4 @@
-# Pentogram-Font-Catalog-Challenge
+# Pentogram Font Catalog Challenge
 
 ## Context
 
