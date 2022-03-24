@@ -1,4 +1,4 @@
-# Pentogram Font Catalog Challenge
+# Pentogram Font Catalog 
 
 ## Context
 
@@ -17,7 +17,7 @@ Create an index of fonts grouped by script as shared in the image below.
 ## Instructions
 
 1. Download and unzip the boilerplate code.
-2. Run the command `npm install` to install the dependencies required for automated testing.
+2. Run the command `npm install` in the terminal to install the dependencies required for automated testing.
 3. Open the boilerplate code in VSCode to develop the assignment solution.
 4. Add required code in the `index.html` file
 5. First, test the solution locally by running the command `npm run test`.
